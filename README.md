@@ -13,6 +13,14 @@ The Food Quality Analysis Dashboard is an interactive web application developed 
 - Food quality prediction using Machine Learning
 - User-friendly dashboard
 
+   ## Dashboard Preview
+
+### Home Dashboard
+![Dashboard](dashboard.png)
+
+### Data Analysis
+![Analysis](analysis.png)
+
 ## 🛠️ Technologies Used
 
 - Python
