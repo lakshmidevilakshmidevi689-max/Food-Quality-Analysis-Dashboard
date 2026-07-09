@@ -1,35 +1,38 @@
 # 🍽️ Food Quality Analysis Dashboard
 
-## 📌 Overview
+An interactive **Food Quality Analysis Dashboard** built using **Python**, **Streamlit**, **Pandas**, **Plotly**, and **Scikit-learn**. This project analyzes food quality datasets, provides interactive visualizations, statistical summaries, and machine learning-based predictions.
 
-The Food Quality Analysis Dashboard is an interactive web application developed using **Python** and **Streamlit**. It analyzes food quality datasets and provides interactive visualizations, statistical summaries, and machine learning predictions.
+---
 
-## ✨ Features
+## 📌 Features
 
-- Upload and analyze food quality datasets
-- Interactive charts and graphs
-- Statistical summary
-- Data visualization using Plotly
-- Food quality prediction using Machine Learning
-- User-friendly dashboard
+- 📂 Upload food quality datasets
+- 📊 Interactive charts and graphs
+- 📈 Exploratory Data Analysis (EDA)
+- 📉 Statistical summary
+- 🤖 Food quality prediction using Machine Learning
+- 🎯 User-friendly dashboard with filters
 
-  ## Dashboard Preview
+---
 
-### Home Dashboard
+## 📷 Dashboard Preview
+
+### 🏠 Home Dashboard
 ![Dashboard](dashboard-overview.png)
 
-### Food Category Distribution
+### 📊 Food Category Distribution
 ![Food Category](food-category-distribution.png)
 
-### Food Quality Ratings
+### ⭐ Food Quality Ratings
 ![Quality Ratings](food-quality-ratings.png)
 
-### Inspection Result Distribution
+### ✅ Inspection Result Distribution
 ![Inspection Result](inspection-result-distribution.png)
 
-### Storage Temperature vs Bacterial Count
+### 🌡️ Storage Temperature vs Bacterial Count
 ![Temperature Analysis](storage-temperature-vs-bacterial-count.png)
 
+---
 
 ## 🛠️ Technologies Used
 
@@ -38,20 +41,75 @@ The Food Quality Analysis Dashboard is an interactive web application developed 
 - Pandas
 - Plotly
 - Scikit-learn
+- NumPy
 
-## 📂 Dataset
+---
 
-Food Quality Dataset (CSV)
+## 📂 Project Structure
 
-## 🚀 How to Run
+```
+Food-Quality-Analysis-Dashboard/
+│
+├── app.py
+├── requirements.txt
+├── food_quality_dataset.csv
+├── README.md
+│
+├── dashboard-overview.png
+├── food-category-distribution.png
+├── food-quality-ratings.png
+├── inspection-result-distribution.png
+└── storage-temperature-vs-bacterial-count.png
+```
+
+---
+
+## 📁 Dataset
+
+- Food Quality Dataset (CSV)
+
+---
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/Food-Quality-Analysis-Dashboard.git
+```
+
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
-py -m streamlit run app.py
 ```
+
+Run the application:
+
+```bash
+streamlit run app.py
+```
+
+---
+
+## 🎯 Future Enhancements
+
+- User Authentication
+- PDF Report Generation
+- Cloud Deployment
+- Real-time Data Analysis
+- More Machine Learning Models
+
+---
 
 ## 👩‍💻 Author
 
 **Lakshmidevi P M**
 
-Computer Science Engineering Student
+Computer Science Engineering (AI & ML)
+
+---
+
+## ⭐ If you like this project
+
+Please consider giving this repository a ⭐ on GitHub.
