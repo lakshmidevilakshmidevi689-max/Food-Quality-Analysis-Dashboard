@@ -15,11 +15,17 @@ The Food Quality Analysis Dashboard is an interactive web application developed 
 
    ## Dashboard Preview
 
-### Home Dashboard
+## Dashboard Preview
+
 ![Dashboard](dashboard-overview.png)
 
-### Data Analysis
-![Analysis](quality-analysis-chart.png)
+![Food Category](food-category-distribution.png)
+
+![Quality Ratings](food-quality-ratings.png)
+
+![Inspection Result](inspection-result-distribution.png)
+
+![Temperature Analysis](storage-temperature-vs-bacterial-count.png)
 
 ## 🛠️ Technologies Used
 
