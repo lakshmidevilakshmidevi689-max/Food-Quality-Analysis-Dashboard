@@ -37,7 +37,7 @@ Food Quality Dataset (CSV)
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+py -m streamlit run app.py
 ```
 
 ## 👩‍💻 Author
