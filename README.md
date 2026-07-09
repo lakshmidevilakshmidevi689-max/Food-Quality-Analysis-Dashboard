@@ -75,7 +75,7 @@ Food-Quality-Analysis-Dashboard/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Food-Quality-Analysis-Dashboard.git
+git clone https://github.com/lakshmidevilakshmidevi689-max/Food-Quality-Analysis-Dashboard
 ```
 
 Install dependencies:
@@ -106,7 +106,7 @@ streamlit run app.py
 
 **Lakshmidevi P M**
 
-Computer Science Engineering (AI & ML)
+Computer Science and Engineering 
 
 ---
 
