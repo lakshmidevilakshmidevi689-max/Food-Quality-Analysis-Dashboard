@@ -1,0 +1,9 @@
+Food_Name,Category,Region,Quality_Rating,Bacterial_Count,Price,Storage_Temperature,Inspection_Result,Moisture_Content,pH_Level,Fat_Content,Protein_Content,Sugar_Level,Shelf_Life
+Milk,Dairy,North,8.5,120,50,4,Pass,87,6.5,3.5,3.2,5.0,10
+Cheese,Dairy,South,9.0,80,120,5,Pass,45,5.8,25,20,2,30
+Chicken,Meat,East,6.5,300,180,2,Fail,70,6.2,15,27,0,5
+Apple,Fruit,West,8.8,40,60,8,Pass,85,3.8,0.2,0.3,10,20
+Spinach,Vegetable,North,7.2,150,40,6,Pass,92,6.8,0.4,2.9,1.1,7
+Fish,Seafood,South,5.9,450,220,1,Fail,68,6.1,12,22,0,3
+Bread,Bakery,East,8.0,60,35,25,Pass,35,5.5,2.0,8.0,4.5,15
+Yogurt,Dairy,West,9.1,50,90,4,Pass,88,4.5,4.0,5.5,6.0,12
